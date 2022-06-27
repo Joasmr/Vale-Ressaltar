@@ -1,5 +1,2 @@
-# Livro de putaria :sleeping:
+###### Alguns pontos aos quais achei interessante estar anotando e compartilhando.
 
-_Olá Terraquio_, ! i be come to cool u
-
-- Salvu
