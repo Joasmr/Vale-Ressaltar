@@ -24,7 +24,12 @@
 
 - "CLS" para limpar a tela
 
+- "MV" (nome do arquivo.md) **./**(nome da pasta) move um arquivo de dentro da pasta para outra pasta
+
   
 
+#### _Linguagem GIT_ :
 
+- GIT INIT - Cria um repositório dentro de um local "X"
+-  
 
