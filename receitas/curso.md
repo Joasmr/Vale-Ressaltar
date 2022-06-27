@@ -24,12 +24,25 @@
 
 - "CLS" para limpar a tela
 
-- "MV" (nome do arquivo.md) **./**(nome da pasta) move um arquivo de dentro da pasta para outra pasta
+- "MV" (nome do arquivo.md) **./**(nome da pasta) move um arquivo de dentro da pasta para outra pasta.
+
+- "echo > README.md" Cria um arquivo em markdown.
 
   
 
 #### _Linguagem GIT_ :
 
 - GIT INIT - Cria um repositório dentro de um local "X"
--  
+- ("git add" NomeDoArquivo) (git add * ou git add .) tira os arquivos da area untracked, ou modificados e deixa na area staged, que é a area onde fica os arquivos prontos a ser commitado.
+- (git commit -m "Mensagem do commit" )
+
+
+
+#### Upando arquivos commit para github
+
+- git remote add **origin** https://github.com/Joasmr/Curso.git - colocar o link atualizado do repositorio criado na github.
+- "git remote -v" vai listar todos as listas de repositorio remoto cadastrado na plataforma.
+- **Origin** é o apelido criado para puxar o link do https na proxima etapa _PUSH_
+
+- "git push **origin** master" 
 
